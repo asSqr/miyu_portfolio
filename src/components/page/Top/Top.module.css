@@ -1,3 +1,18 @@
-.top {
-  /* TBD */
+.top article {
+  height: 60vh;
+  margin: 10px 40px;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  color: brown;
+  text-align: center;
+  text-shadow: burlywood 1px 0 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px 3px rgba(222, 184, 135, 0.2);
+}
+
+.top h1 {
+  font-size: 3em;
+  color: brown;
+  text-align: center;
+  text-shadow: burlywood 1px 0 15px;
 }

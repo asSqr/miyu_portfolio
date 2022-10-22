@@ -1,3 +1,4 @@
-# Next.js template
+# miyu_portfolio
 
-@yoshiko-pg用のNext.jsプロジェクトテンプレート
+@yoshiko-pg用のNext.jsプロジェクトテンプレートを使わせていただいております．
+
