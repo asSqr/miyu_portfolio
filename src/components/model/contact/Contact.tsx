@@ -9,10 +9,10 @@ export const Contact = () => {
       <article>
         <ul>
           <li>
-            Twitter:{' '}
+            {/* Twitter:{' '}
             <a href="https://twitter.com/kumaaa_0715" target="__blank">
               @kumaaa_0715
-            </a>
+  </a> */}
           </li>
         </ul>
       </article>
