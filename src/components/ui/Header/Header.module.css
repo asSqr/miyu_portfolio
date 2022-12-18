@@ -1,9 +1,10 @@
 .header {
   padding-top: 15px;
+  padding-bottom: 15px;
   padding-left: 30px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 3.5em;
   color: brown;
   text-shadow: burlywood 1px 0 15px;
-  background: bisque;
+  border-bottom: 3px solid brown;
 }

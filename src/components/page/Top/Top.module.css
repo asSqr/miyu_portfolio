@@ -1,3 +1,7 @@
+.top {
+  padding: 20px;
+}
+
 .top article {
   height: 60vh;
   padding-top: 10px;
@@ -17,4 +21,19 @@
   color: brown;
   text-align: center;
   text-shadow: burlywood 1px 0 15px;
+}
+
+.top li {
+  margin-left: 20px;
+}
+
+.top a {
+  color: #bb6421eb;
+  text-decoration: none;
+  text-shadow: none;
+}
+
+.top a:hover {
+  color: #bb64218a;
+  text-decoration: none;
 }
