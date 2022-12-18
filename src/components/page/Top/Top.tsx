@@ -1,6 +1,9 @@
 import React from 'react'
 import Head from 'next/head'
 
+import { Profile } from '@/components/model/profile/Profile'
+import { Works } from '@/components/model/works/Works'
+
 import styles from './Top.module.css'
 
 export const Top = () => {
@@ -11,13 +14,8 @@ export const Top = () => {
       </Head>
 
       <main className={styles.top}>
-        <section>
-          <h1>Profile</h1>
-          <article>宝塚大学の学部 3 年生です</article>
-        </section>
-        <section>
-          <h1>Works</h1>
-        </section>
+        <Profile />
+        <Works />
       </main>
     </>
   )

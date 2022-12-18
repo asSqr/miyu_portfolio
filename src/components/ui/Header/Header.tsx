@@ -4,9 +4,10 @@ import cx from 'clsx'
 import styles from './Header.module.css'
 
 type Props = {
+  content: string
   className?: string
 }
 
-export const Header = ({ className }: Props) => (
-  <header className={cx(styles.header, className)}>Header</header>
+export const Header = ({ content, className }: Props) => (
+  <header className={cx(styles.header, className)}>{content}</header>
 )

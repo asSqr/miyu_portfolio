@@ -7,7 +7,7 @@ import { Top } from './Top'
 
 export const TopPage = () => (
   <>
-    <Header />
+    <Header content="Miyu's portfolio" />
 
     <Content>
       <Top />

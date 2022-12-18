@@ -11,4 +11,4 @@ export default {
   title: 'ui/Header',
 }
 
-export const Default = () => <Header />
+export const Default = () => <Header content="Header" />
